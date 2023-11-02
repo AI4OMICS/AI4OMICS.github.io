@@ -209,7 +209,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 Microsoft YaHei, Arial, times new roman;
+  font: 400 16px/1.5 times new roman;
   color: #111111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -327,7 +327,7 @@ blockquote i, blockquote em {
  */
 pre,
 code {
-  font-family: times new roman,Microsoft YaHei;
+  font-family: times new roman;
   font-size: 0.9375em;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
