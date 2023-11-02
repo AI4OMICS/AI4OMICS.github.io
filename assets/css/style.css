@@ -209,7 +209,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Microsoft YaHei, Roboto, Helvetica, Arial, sans-serif;
   color: #111111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -313,13 +313,13 @@ blockquote {
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
   font-size: 1.125rem;
-  font-style: italic;
+  font-style: Arial;
 }
 blockquote > :last-child {
   margin-bottom: 0;
 }
 blockquote i, blockquote em {
-  font-style: normal;
+  font-style: Arial;
 }
 
 /**
