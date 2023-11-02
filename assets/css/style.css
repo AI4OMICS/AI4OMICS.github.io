@@ -1,6 +1,6 @@
 .highlight .c {
   color: #998;
-  font-style: italic;
+  font-style: Arial;
 }
 .highlight .err {
   color: #a61717;
@@ -14,7 +14,7 @@
 }
 .highlight .cm {
   color: #998;
-  font-style: italic;
+  font-style: Arial;
 }
 .highlight .cp {
   color: #999;
@@ -22,12 +22,12 @@
 }
 .highlight .c1 {
   color: #998;
-  font-style: italic;
+  font-style: Arial;
 }
 .highlight .cs {
   color: #999;
   font-weight: bold;
-  font-style: italic;
+  font-style: Arial;
 }
 .highlight .gd {
   color: #000;
@@ -38,7 +38,7 @@
   background-color: #faa;
 }
 .highlight .ge {
-  font-style: italic;
+  font-style: Arial;
 }
 .highlight .gr {
   color: #a00;
