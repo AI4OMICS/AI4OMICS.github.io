@@ -561,6 +561,9 @@ table td {
   margin-left: 0;
 }
 
+.footer{
+  text-align: center
+}
 .footer-col-wrapper,
 .social-links {
   font-size: 0.9375rem;
@@ -569,7 +572,6 @@ table td {
 
 .footer-col {
   margin-bottom: 15px;
-  text-align: center;
 }
 
 .footer-col-1,
